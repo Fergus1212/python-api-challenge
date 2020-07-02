@@ -1,5 +1,7 @@
 # Python API Homework - What's the Weather Like?
 
+Results: https://fergus1212.github.io/HTML/landing.html 
+
 ## Part I - WeatherPy
 A heat map of weather data. API call to openweathermap.org that pulls the weather conditions of random cities. 
 This data is then scatter plot to find relationships between the phenomenon.
